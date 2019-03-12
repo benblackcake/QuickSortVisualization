@@ -1,15 +1,15 @@
 # QuickSortVisualization
-### §Ö³t±Æ§Ç¹Ï§Î¤Æ§e²{
+### å¿«é€ŸæŽ’åºåœ–å½¢åŒ–å‘ˆç¾
 >**AlgorithmVisualize.java**
->¹ê§@¤èªkquickSort()±Äpartition¤èªk
->
->Purple = current element
->Green = Sorting data
->Yellow = fixPivots key data
->Grey = Unsorted data
+>å¯¦ä½œæ–¹æ³•quickSort()æŽ¡partitionæ–¹æ³•
+>  
+>Purple = current element  
+>Green = Sorting data  
+>Yellow = fixPivots key data  
+>Grey = Unsorted data  
 
 
 
 
-### §e²{
+### å‘ˆç¾
 >![](https://i.imgur.com/M4O0nDX.gif=250px)
