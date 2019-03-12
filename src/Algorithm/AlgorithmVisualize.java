@@ -28,9 +28,6 @@ public class AlgorithmVisualize {
 //		thread.setDaemon(true);
 //		thread.start();
 		run();
-		/*Debug*/
-		
-
 		System.out.println("");
 	//	printData();
 		
