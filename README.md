@@ -1,5 +1,4 @@
 # QuickSortVisualization
-# QuickSortVisualization
 ### 快速排序圖形化呈現
 >**AlgorithmVisualize.java**
 >實作方法quickSort()採partition方法
