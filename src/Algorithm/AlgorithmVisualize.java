@@ -37,10 +37,11 @@ public class AlgorithmVisualize {
 	}
 	
 	private void run() {
-	//	setData(0,0,0,0,0);
+		setData(0,0,0,0,0);
 		quickSort(0, quickSortDatas.N()-1);
 //		setData(0,0,0,0,0);
 	}
+	
 	
 	
 	
