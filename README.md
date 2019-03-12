@@ -2,7 +2,7 @@
 ### 快速排序圖形化呈現
 >**AlgorithmVisualize.java**
 >實作方法quickSort()採partition方法
->  
+> 最後值為Pivot key
 >Purple = current element  
 >Green = Sorting data  
 >Yellow = fixPivots key data  
