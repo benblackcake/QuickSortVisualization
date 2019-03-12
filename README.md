@@ -12,4 +12,4 @@
 
 
 ### 呈現
->![Minion](https://i.imgur.com/M4O0nDX.gif=300x300)
+>![Minion](https://i.imgur.com/M4O0nDX.gif =300x300)
